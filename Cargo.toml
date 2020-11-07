@@ -1,7 +1,9 @@
 [package]
 name = "cycle-queue"
+license = "GPL-3.0"
 version = "0.1.0"
-authors = ["gannon"]
+authors = ["gannon <bim@outlook.com>"]
+description = "cycle cycle-queue queue"
 edition = "2018"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
